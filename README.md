@@ -3,7 +3,7 @@ This Power BI project provides a comprehensive analysis of Zomato order data ove
 
 The report is structured into distinct pages to facilitate a clear understanding of the data:
 
-Project Overview: Zomato is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights on how the company is performing  by help of diving deep into both user and city performance. Live Dashboard: [LINK](https://app.powerbi.com/view?r=eyJrIjoiZmJkOTg3NDctYzgxZi00MmRkLThhOGMtNzY1NTMwN2ZkNzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Project Overview: Zomato is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights on how the company is performing by helping in diving deep into various metrics for both user and city performance. Live Dashboard: [LINK](https://app.powerbi.com/view?r=eyJrIjoiZmJkOTg3NDctYzgxZi00MmRkLThhOGMtNzY1NTMwN2ZkNzc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Dataset Link - https://drive.google.com/drive/folders/1aluMi-PHu0oZXNEcdcFYC1srG05CWuLs
 
